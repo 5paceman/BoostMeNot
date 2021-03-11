@@ -6,6 +6,7 @@ The threshold is configurable from the AddOn options page and anyone can add or 
 
 # Options
 ![image](https://user-images.githubusercontent.com/16262127/110866325-e311f700-82bc-11eb-8f75-8d5f69472274.png)
+
 In the options you can enable and disable the AddOn, change the threshold and also turn on developer mode.
 
 Developer mode allows you to see all messages and what theyve been rated, messages are in the format [Channel][Name][Rating] Message
